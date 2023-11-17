@@ -4,7 +4,7 @@ This repository is the continuation of "Javana-EXC-Intern-23", specifically afte
 | Week | Task |
 | ------ | ------ |
 | ≤ Pre-2 | https://github.com/javendzk/Javana-EXC-Intern-23 |
-| 2 | Portofolio page with about and mailto using react's useState|
+| 2 | Portofolio page with mailto using react's useState + TailwindCSS|
 
 *Javana Muhammad Dzaki  
 Team 3 Software Intern  
