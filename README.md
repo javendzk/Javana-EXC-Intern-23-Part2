@@ -4,7 +4,7 @@ This repository is the continuation of "Javana-EXC-Intern-23", specifically afte
 | Week | Task |
 | ------ | ------ |
 | ≤ Pre-2 | https://github.com/javendzk/Javana-EXC-Intern-23 |
-| 2 | ... |
+| 2 | Stick Navbar scrollTo + About + Contact Mailto with React|
 
 *Javana Muhammad Dzaki  
 Team 3 Software Intern  
