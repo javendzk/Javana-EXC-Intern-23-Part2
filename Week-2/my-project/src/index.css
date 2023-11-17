@@ -5,6 +5,10 @@
     text-shadow: 0px 0px 19px rgba(0, 0, 0, 1);
 }
 
+.border1pxblack {
+    border: 1px solid black;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
