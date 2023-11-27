@@ -5,6 +5,8 @@ This repository is the continuation of "Javana-EXC-Intern-23", specifically afte
 | ------ | ------ |
 | ≤ Pre-2 | https://github.com/javendzk/Javana-EXC-Intern-23 |
 | 2 | Portofolio page with mailto using react's useState + TailwindCSS|
+| 3 | Create pages using react router and react's data mapping|
+
 
 *Javana Muhammad Dzaki  
 Team 3 Software Intern  
