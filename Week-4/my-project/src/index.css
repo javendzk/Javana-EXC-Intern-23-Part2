@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@300&display=swap');
+
+.hshadow{
+    text-shadow: 0px 0px 19px rgba(0, 0, 0, 1);
+}
+
+.border1pxblack {
+    border: 1px solid black;
+}
+
+.imgdisplay {
+    width: 450px;
+    height: 250px;
+    overflow: hidden;
+    object-fit: cover;
+    filter: grayscale(1);
+}
+
+#navitem a:hover::before {
+    width: 100%;
+}
+
+#navitem a.active::before {
+    width: 100%;
+    border-bottom: 1px solid black;
+}
+
+#navitem a {
+    position: relative;
+    text-decoration: none;
+}
+
+#navitem a::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 1px;
+    background-color: black;
+    transition: width 0.2s ease-in-out;
+}
+
+::-webkit-scrollbar {
+    width:10px;
+  }
+::-webkit-scrollbar-thumb {
+    background-color: #e0e0e0;
+    border-radius: 10px; 
+}
+  
+::-webkit-scrollbar-track {
+    background-color: #f1f1f1; 
+}
+  
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
